@@ -1,6 +1,6 @@
 # Agentic-AI
 
-This repository is a lightweight starter for building an agentic AI workflow.
+This repository is a lightweight starter for building an agentic AI workflow
 
 ## What is included
 
